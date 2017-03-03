@@ -1,4 +1,4 @@
-# Client cert authentication demo code with java client
+# Client cert authentication with java client
 
 ## Setting up the Couchbase Server
 
